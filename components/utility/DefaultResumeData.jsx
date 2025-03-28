@@ -1,9 +1,9 @@
 const DefaultResumeData = {
-  name: "MARCUS HALL",
+  name: "Ahmad Ali",
   position: "Developer",
-  contactInformation: "+1-555-0100",
-  email: "beddylea@gmail.com",
-  address: "San Francisco, CA",
+  contactInformation: "+966-555-0100",
+  email: "youremail@gmail.com",
+  address: "Riyadh - Saudi Arabia",
   profilePicture: "",
   socialMedia: [
     {
